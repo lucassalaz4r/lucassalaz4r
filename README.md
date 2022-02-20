@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! I'm Lucas Salazar ✌🏾
 
 <!--
 **SalazarLucas/SalazarLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I burned down an apartment once.
 -->
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Web Development
+- 📄 Know more about me in (working on it)...
+- ⚡ Fun fact: I burned down an apartment once.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SalazarLucas&show_icons=true&locale=en" alt="SalazarLucas"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalazarLucas&layout=compact" alt="SalazarLucas"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SalazarLucas&" alt="SalazarLucas"></p>
