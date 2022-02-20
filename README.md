@@ -1,4 +1,4 @@
-### Hey! I'm Lucas Salazar ✌🏾
+# Hey! I'm Lucas Salazar ✌🏾
 
 <!--
 **SalazarLucas/SalazarLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
