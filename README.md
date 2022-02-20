@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I burned down an apartment once.
 -->
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Web Development
 - 📄 Know more about me in (working on it)...
 - ⚡ Fun fact: I burned down an apartment once.
