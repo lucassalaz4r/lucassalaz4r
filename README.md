@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I burned down an apartment once.
--->
-
 - 🌱 I’m currently learning Web Development
-- 📄 Know more about me [here](https://salazarlucas.github.io/homepage/).
 - ⚡ Fun fact: I burned down an apartment once.
+-->
