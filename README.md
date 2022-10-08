@@ -2,9 +2,7 @@
 
 ### Student of Computer Systems @ [UFF](https://www.uff.br/)
 
-<a target="_blank" href="https://icons8.com/icon/108378/spider">
-    <img src="https://img.icons8.com/pastel-glyph/64/000000/spider.png"/>
-</a>
+<img src="https://cdn-icons-png.flaticon.com/512/1123/1123882.png"/ width=50>
 
 ## More About Me:
 
