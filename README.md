@@ -2,7 +2,7 @@
 
 ### Student of Computer Systems @ [UFF](https://www.uff.br/)
 
-<img width=50 src="https://cdn-icons-png.flaticon.com/512/1123/1123882.png"/>
+<img width=80 src="https://cdn-icons-png.flaticon.com/512/1123/1123882.png"/>
 
 ## More About Me:
 
