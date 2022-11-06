@@ -18,10 +18,9 @@ class Lucas:
             'English'
         ]
 
-        self.technologies = {
-            'Python': [Django],
-            'JavaScript': []
-        }
+        self.technologies = [
+            'Python'
+        ]
 ```
 
 💬 Ask me anything about Python, I'd be really happy to help you.
