@@ -1,6 +1,6 @@
 # Lucas Salazar
 
-### Cloud Development Intern @Solvimm/e-Core
+### Cloud Development Intern @[Solvimm](https://solvimm.com/)/[e-Core](https://www.e-core.com/)
 
 ### Student of Computer Systems @ [UFF](https://www.uff.br/)
 
